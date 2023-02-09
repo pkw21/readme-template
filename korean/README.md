@@ -1,26 +1,20 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# Evaluate Recognition Performance Tool (Synthetic Image)
+> This project was developed to evaluate ADAS VP FSIR/RIR/RSIR recognition performance using synthetic images.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
-
+Evaluation of DNN recognition performance of ADAS VP through Cognata synthetic image (EIL-A)
+See the figure below for a detailed description.
 ![](../header.png)
 
-## 설치 방법
-
-OS X & 리눅스:
-
-```sh
-npm install my-crazy-module --save
-```
+## Installation
 
 윈도우:
 
 ```sh
-edit autoexec.bat
+run VPEvaluateTool.py
 ```
 
 ## 사용 예제
